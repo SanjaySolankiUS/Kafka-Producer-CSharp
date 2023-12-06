@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uwOWRrXIFxcbampnydSlimHk8Q6AqOKLnjr9FhFkemSae7zj3q983mgpUBT44JDj6yxPuuVAfeNTZZI6a5TiBA==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\ProducerAPICSharp\\ProducerAPICSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
